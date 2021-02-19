@@ -1,0 +1,15 @@
+{
+  "name": "apt-reviews",
+  "version": "1.0.0",
+  "description": "review apts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Wallace",
+  "license": "ISC",
+  "dependencies": {
+    "pg": "^8.5.1",
+    "sequelize": "^6.5.0"
+  }
+}
